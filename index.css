@@ -74,11 +74,22 @@ button {
     box-sizing: border-box;
 }
 
+
 body {
   font-family: Arial, sans-serif;
   background-color: teal;
   color: #333;
   padding: 20px;
+
+}
+
+.header {
+    padding: 10px;
+    margin-bottom: 20px;
+    justify-content: center;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 600;
 
 }
 
